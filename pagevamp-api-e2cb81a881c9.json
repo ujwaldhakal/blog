@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pagevamp-api",
+  "private_key_id": "e2cb81a881c9ede53e343e5801ae778490be4127",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDA3+tsIA+L8u0r\njWq4OwJkSyDwbHZLH5Ttc+uSbpNw6vdSDGG9WRzlgJWNqkyiQlHkwCKKMls778LW\nENX94j4x/nkzgTcbmRnPlLhwEbUHthCbpVpsO+lGU+j7W+/No3KOmMheyRCoX6VA\nOi2NyZJdEOywjsS9DcMnCxHQqmruuo/jAiZom9WKSplatSC5k+Qpm40cfU1phoLz\nC4JM24wOUt4rWw0Vq0lv29rh99HwDwBXYqsCtBaKFLvie4PihBE335KllGdW3TFE\nTbXIB6WI57O1jXpOj+op0qQdcFWEHJuf7Qy4BYCsOkhGTjcBGaUnN8nrILHUmeUd\nJpXpUnC5AgMBAAECggEAF6NZ1waW4TAEoTHTwoB46pHKl6yzUsGsHu32ERw8NbqW\nVRfvYqVpRTddHN+iRMCcCM0Dbqx9QftAhbvKfjMcLERj1kwf1OIOp8IyWInTBf7q\nSikZy+oLzPK7uxKpcSp2/8L5y6QYxonyVszKiHYL2hwY5gqZUhI9uKtCo7A/KsK8\nI9GMnRTgvx4La3HXQmQfLHlwNY7d5lZGTj7E0v0pRuhGYNXe9uoVVz6/lijkM3dp\nd5C5IieL1Pf7/Tw4FRN8v40S+GIHcNIWfGxxA1giimWF5vqvR78MUjhs44RGdZ3O\nhDL5WC3FWvmhjVKMqSeYSXy/152WbS9EpbxXbCXJgQKBgQDj3YYcmFqD8NOwF5Gc\n34P2sT0pB1cjtp+po2Wdx9aE8+NDJx06Z44mlLQfenUpzVF7zMK7WgubjhaDkXFJ\nqhe2owELKTVlEl/G0wR6xVhSTz16DA2FeeeyZxDRAH4ZauyUG7Tdoh3KVb4Kh9XL\n8akZSKNBePAfg1MBaSio9dvC4wKBgQDYsGUTi995wkzCM+1fgn8Mjwrc+aQDSTT6\n0w5WL0h2JRh9JgS2vBq0qY8JRZUx8OdupVPuCYdlrVZpnchF6IAvI1hUUN18DqPw\nnAeHAFp78P5b8OAjq2dSv4vMGlv9Dto5bbvU+iP3VX9pYQRWzH/MmZM3OSf28j4p\naHx8fT3kswKBgGy8h4UZxwfzYnFDrf74Qpb0WUU89X5bZbGkAZfbhykG4UpoXfBC\n/ni2uYXUABkkm1/ChKK3A5cFpQS/4RnQC2TiQFs9HPfQXtgYVqjnh5AvtByLp+As\nHj7qJAI4g/RJLAA5gIPLGwA1Dm0kCQg7mAAyw4U42w2Os4uWzQpj2K0VAoGAdBVD\ngM4tAUiS4HL7FnCNaYfz9N+T+uKsDDcm9grMkeZbkSfd3Js231P6uafaPm/lO8Q8\nC0h1jYXnxhrt4G2mxhn0Ru8vSDd7ofmkmrEYyE8ZpN2M5e78IjtVRBlW8GGVjLB5\nsKX0wJq/8A82SN2zFUOstyfafhPWM06zaemaT7sCgYBQjcpwOq4DUto94FaSyO/P\nU2y3R/xBMiqyEi6bshmd1HuMDQC+2GkWV7avlb0/oOfDjGvQ34MtmC1VP0ITHKQM\n/mtG2tR80tOh9aoUU7cpNpEz8t0c2SLA3bsUk01Spk6zvgGJ6Tjk1HXgqTcEW7F+\n9vJ+7993BBaWuA2MW3wzmg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pagevamp@pagevamp-api.iam.gserviceaccount.com",
+  "client_id": "107123995373688241845",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pagevamp%40pagevamp-api.iam.gserviceaccount.com"
+}
